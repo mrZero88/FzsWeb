@@ -1,0 +1,7 @@
+.cover {
+    object-fit: cover;
+}
+
+.rounded-corners {
+    border-radius: 5%;
+}
