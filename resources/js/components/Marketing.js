@@ -48,7 +48,7 @@ class Marketing extends Component {
                         <p className="lead">
                             We are not an oridnary company with offices, suits and ties. We are a company which gives you the freedom of working dressed how you like,
                             wherever in the world you like to do it. We are prepared to be a fully virtual comapany with virtual meetings, different timezones, and with experts all over the world of any country.
-                            Our Customers can also be from anywhere in the world, from a Private Person with some kind of tech project, to Companies helping them on their businesses.
+                            Our Customers are also from anywhere in the world, from a Private Person with some kind of tech project, to Companies helping them on their businesses.
                         </p>
                     </div>
                     <div className="col-md-5">
@@ -127,7 +127,8 @@ class Marketing extends Component {
                         About your Project on daniel.correia@flyzerosky.com
                     </span>
                 </h2>
-                {{/*
+                
+                {/*
                 <br/>
                 <br/>
                 <div className="row">
@@ -156,8 +157,7 @@ class Marketing extends Component {
                         </form>
                         Or send an email directly to daniel.correia@flyzerosky.com
                     </div>
-                </div> */
-                }}
+                </div> */}
 
                 <hr className="featurette-divider" />
             </div>

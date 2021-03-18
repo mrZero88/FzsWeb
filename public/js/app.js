@@ -66259,7 +66259,7 @@ var Marketing = /*#__PURE__*/function (_Component) {
         className: "text-muted"
       }, "We.")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
         className: "lead"
-      }, "We are not an oridnary company with offices, suits and ties. We are a company which gives you the freedom of working dressed how you like, wherever in the world you like to do it. We are prepared to be a fully virtual comapany with virtual meetings, different timezones, and with experts all over the world of any country. Our Customers can also be from anywhere in the world, from a Private Person with some kind of tech project, to Companies helping them on their businesses.")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      }, "We are not an oridnary company with offices, suits and ties. We are a company which gives you the freedom of working dressed how you like, wherever in the world you like to do it. We are prepared to be a fully virtual comapany with virtual meetings, different timezones, and with experts all over the world of any country. Our Customers are also from anywhere in the world, from a Private Person with some kind of tech project, to Companies helping them on their businesses.")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "col-md-5"
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
         className: "cover featurette-image img-fluid mx-auto rounded-corners",
